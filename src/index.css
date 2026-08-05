@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 20px; }
+div { border: 1px solid #ccc; padding: 10px; margin: 10px; }
+button { padding: 6px 14px; border: none; border-radius: 5px; background: #2b6cb0; color: white; cursor: pointer; }
+button:disabled { background: green; }
